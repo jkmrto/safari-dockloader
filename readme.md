@@ -1,6 +1,6 @@
 # Safari Dockloader
 
-The idea of this project is download pdf books from safari.
+Dinamically download epub books from safari and converts them to pdf. 
 
 Just using docker to avoid install calibre and all the other libraries locally. 
 
